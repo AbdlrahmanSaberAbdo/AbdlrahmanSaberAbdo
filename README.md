@@ -26,11 +26,21 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m working on improving my skills in `Competitive Programming`
+- 🤔 I’m working on improving my skills in `scalable systems`
 
 - 💬 Ask me about anything :) 
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+## Recent PRs
+- [9.x] Add predefined_constants to reservedNames array (Larave) https://github.com/laravel/framework/pull/42832#event-6825521647
+- Add optional support to pipes (nestJs) https://github.com/nestjs/nest/pull/11879
+- feat(migrations): add support for custom migration names (Mikro-orm) https://github.com/mikro-orm/mikro-orm/pull/4250
+
+## Recent Discussions
+- Introduce a new option in `migrations:create` command to give a name for migrations file: https://github.com/mikro-orm/mikro-orm/discussions/3987
+- Implementing an additional option to retrieve all properties except specific ones https://github.com/mikro-orm/mikro-orm/discussions/4460
+- Incorporating `oneOf` Validation in class-validator https://github.com/typestack/class-validator/discussions/2107
 
 ## 🛠️ Technologies and Tools I use:
 
