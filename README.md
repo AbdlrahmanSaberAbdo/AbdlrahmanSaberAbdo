@@ -16,9 +16,6 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1q20tC8bOBdjz0OAOQa5plExKhP-M-7mO/view?usp=sharing)**
-
-
 - 💻 Take a look at my first Open-source package for `Laravel developers` called <a href="https://github.com/yepwoo/laragine"> Laragine </a>
 
 - 🔭 I’m currently working on `Something Intresting`.
