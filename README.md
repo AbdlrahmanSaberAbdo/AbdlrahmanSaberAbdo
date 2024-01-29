@@ -16,9 +16,9 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Resume](https://drive.google.com/file/d/1q20tC8bOBdjz0OAOQa5plExKhP-M-7mO/view?usp=sharing)**
+- 🙋‍♂️ All about me is at **[My Resume]([https://drive.google.com/file/d/1q20tC8bOBdjz0OAOQa5plExKhP-M-7mO/view?usp=sharing](https://drive.google.com/file/d/1tbSsTKNxDV47YPMtdWj3as0Cj-fcTVIP/view?usp=sharing))**
 
-- 💻 Take a look to my first Open-source package for `Laravel developers` called <a href="https://github.com/yepwoo/laragine"> Laragine </a>
+- 💻 Take a look at my first Open-source package for `Laravel developers` called <a href="https://github.com/yepwoo/laragine"> Laragine </a>
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -36,6 +36,7 @@ Here are some ideas to get you started: -->
 - [9.x] Add predefined_constants to reservedNames array (Larave) https://github.com/laravel/framework/pull/42832#event-6825521647
 - Add optional support to pipes (nestJs) https://github.com/nestjs/nest/pull/11879
 - feat(migrations): add support for custom migration names (Mikro-orm) https://github.com/mikro-orm/mikro-orm/pull/4250
+- fix(reflection): ensure complete stripping of relative paths with multiple leading slashes (Mikro-orm) https://github.com/mikro-orm/mikro-orm/pull/4844
 
 ## Recent Discussions
 - Introduce a new option in `migrations:create` command to give a name for migrations file: https://github.com/mikro-orm/mikro-orm/discussions/3987
@@ -67,12 +68,14 @@ Here are some ideas to get you started: -->
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+<img alt="Typescript" src="https://img.shields.io/badge/typescript-%230769AD.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
+<img alt="NodeJs" src="https://img.shields.io/badge/nodeJs-%230769AD.svg?style=for-the-badge&logo=nodeJs&logoColor=white" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
 
 <p>
- <a href="https://twitter.com/Abdlrahmansabe4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/abdlrahmansaber/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://stackoverflow.com/users/14810505/abdlrahman-saber" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-f2740d?style=for-the-badge&logo=stackoverflow&logoColor=white"  height="30px"/></a> <a href="https://dev.to/abdlrahmansaberabdo" target="_blank"><img alt="Dev" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://hashnode.com/@AbdlrahmanSaber" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  height="30px"/></a>
+ <a href="https://twitter.com/Abdlrahmansabe4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/abdlrahmansaber/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://stackoverflow.com/users/14810505/abdlrahman-saber" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-f2740d?style=for-the-badge&logo=stackoverflow&logoColor=white"  height="30px"/></a>
 </p>
 
 
